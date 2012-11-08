@@ -1,0 +1,1 @@
+/Users/ueshin/Dropbox/vimsettings/.vimrc
